@@ -4,7 +4,6 @@ The idea behind it was to create a Five Card Draw poker bot that plays with opti
 
 Rules of Five Card Draw:
 
-
 Deal: Each player is dealt five cards.
 
 Betting Round: Players take turns betting, raising, calling, or folding. If a player folds, the pot is awarded to the other player.
