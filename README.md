@@ -9,6 +9,6 @@ Draw: If no player folds, players take turns exchanging 0-5 cards in return for 
 Betting Round: Players again take turns betting, raising, calling, or folding. If a player folds, the pot is awarded to the other player.
 Showdown: If no player folds, both players show their hands, and the winning hand is awarded the pot.
 
-*This is still a work in progress as you can only play one hand at a time. You can still take a look at the GUI though and play a hand if you like*
+*This is still a work in progress as you can only play one hand at a time. You can still take a look at the GUI though and play a hand.*
 
 ==============
